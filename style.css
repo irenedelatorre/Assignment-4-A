@@ -72,3 +72,13 @@ p{
     stroke: rgb(50,50,50);
     fill: rgba(200,200,200,.3)
 }
+
+.medals {
+	fill: #f92c63;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.countries {
+	fill:#333333;
+}
